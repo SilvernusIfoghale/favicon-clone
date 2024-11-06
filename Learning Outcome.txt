@@ -1,0 +1,16 @@
+Virtual DOM
+State
+Props
+JSX
+Components(Functional and Class)
+Lifecycle components
+Fragment
+Use Event Handlers with React
+
+--------------------------------
+Styled Component
+
+----------------------------------
+To Understand React Js library for frontend and development nd successfully build reusable components
+
+Build a minimum of 6 reusable components on a Single Page (React) for example form, input, button, table, checkbox, data table,,....
